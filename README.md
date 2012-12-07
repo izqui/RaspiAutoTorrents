@@ -1,7 +1,7 @@
 Adding torrents automatically to Raspberry Pi
 =================================================
 
-[Blog post] (http://)
+[Blog post] (http://izqui.me/post/37407490216/automatically-adding-torrents-to-raspberry-pi)
 
 First of all you need to install the python module that will talk to transmission-rpc:
     
