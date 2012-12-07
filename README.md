@@ -1,4 +1,4 @@
-Adding torrents automatically to the Raspberry Pi
+Adding torrents automatically to Raspberry Pi
 =================================================
 
 [Blog post] (http://)
